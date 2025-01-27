@@ -5,7 +5,7 @@
 class PawaPay{
 
 
-  private  $token = "eyJraWQiOiIxIiwiYWxnIjoiRVMyNTYifQ.eyJ0dCI6IkFBVCIsInN1YiI6IjEwMzYiLCJleHAiOjIwNTE3OTIyNzEsImlhdCI6MTczNjI1OTQ3MSwicG0iOiJEQUYsUEFGIiwianRpIjoiZGVlNDkzZmYtZWY0Zi00ZDA5LWIzMGUtZTUwN2M0ZTViMzEwIn0.3M5fD-m9wgALs-wm0mqZ7P4XJ4vIJ5DGb1gG2WNDWAFwloIUAYW2oXV8gSBW7hibUF0Gc22-_kIauRKe3FQUJA";
+  private  $token = "";
   private  $environment = "live"; // live/sandbox
   private $url = "https://api.sandbox.pawapay.io";
   
