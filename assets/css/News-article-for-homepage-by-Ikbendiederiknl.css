@@ -1,0 +1,55 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.news-block {
+  background-color: #;
+  padding: 70px 0px;
+}
+
+.newsblock-title {
+  padding-bottom: 2px;
+  color: #ff534c;
+  font-family: 'Raleway Dots', cursive;
+  font-size: 32px;
+  font-weight: bold;
+  border-bottom: 1.25px dotted #ff534c;
+}
+
+.newsblock-title-under {
+  padding-top: 18px;
+  padding-bottom: 2px;
+  color: #fa005e;
+  font-family: 'Raleway Dots', cursive;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.newsblock-link {
+  padding-top: 1px;
+  font-size: 16px;
+  color: #212519;
+  margin-bottom: 0px;
+}
+
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.col-3.news-bg {
+  margin-left: 15px;
+  margin-right: -15px;
+  padding-left: 0px;
+  background-color: #f1f2f5;
+}
+
+.col-9.news-bg {
+  background-color: #f1f2f5;
+}
+
